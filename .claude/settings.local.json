@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(brew upgrade:*)",
+      "Bash(claude mcp add:*)",
+      "Bash(claude mcp list:*)",
+      "Bash(claude mcp:*)",
+      "Bash(curl:*)",
+      "mcp__todoist__add-projects",
+      "mcp__todoist__get-overview",
+      "mcp__todoist__add-tasks",
+      "mcp__atlassian__getAccessibleAtlassianResources",
+      "mcp__atlassian__getVisibleJiraProjects",
+      "mcp__atlassian__createJiraIssue",
+      "Bash(mkdir:*)",
+      "mcp__atlassian__getJiraIssue",
+      "Bash(cat:*)",
+      "Bash(wc:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
