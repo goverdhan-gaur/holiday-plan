@@ -15,7 +15,11 @@
       "Bash(mkdir:*)",
       "mcp__atlassian__getJiraIssue",
       "Bash(cat:*)",
-      "Bash(wc:*)"
+      "Bash(wc:*)",
+      "mcp__todoist__find-tasks",
+      "mcp__todoist__update-tasks",
+      "Bash(python3:*)",
+      "Bash(pip3 install:*)"
     ],
     "deny": [],
     "ask": []
